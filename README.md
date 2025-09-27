@@ -34,7 +34,7 @@
 ## Connect with me☎️:
 
 <p align="left">
-<a href="https://linkedin.com/in/monaliwatareka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MonaliWatareka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/monali-watareka-07629b367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MonaliWatareka" height="30" width="40" /></a>
 <a href="https://instagram.com/monaliii._12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monaliii._12" height="30" width="40" /></a>
 </p>
 
