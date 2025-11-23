@@ -25,10 +25,26 @@
 <br>
 
 ## GitHub Stats 📈 :
-
 <br>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=MonaliWatareka&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chamodsn&theme=dark&hide_border=false" /> 
+</td>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MonaliWatareka&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![MonaliWatareka GitHub stats](https://github-readme-stats.vercel.app/api?username=MonaliWatareka&theme=algolia)](https://github.com/MonaliWatareka/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonaliWatareka&theme=algolia)](https://github.com/MonaliWatareka/github-readme-stats)
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MonaliWatareka&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MonaliWatareka&label=Profile%20views&color=0e75b6&style=flat" alt="chamodsn" /> </p>
+
 <br>
 
 ## Connect with me☎️:
