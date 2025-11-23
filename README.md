@@ -26,12 +26,14 @@
 
 ## GitHub Stats 📈 :
 <br>
+
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=MonaliWatareka&theme=dark&show_icons=true&count_private=true" />
-  <br>
+  <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MonaliWatareka&theme=dark&hide_border=false" /> 
 </td>
 
@@ -43,9 +45,10 @@
 </tr>
 </table>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MonaliWatareka&label=Profile%20views&color=0e75b6&style=flat" alt="chamodsn" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chamodsn&label=Profile%20views&color=0e75b6&style=flat" alt="MonaliWatareka" /> </p>
 
 <br>
+
 
 ## Connect with me☎️:
 
